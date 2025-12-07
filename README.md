@@ -41,9 +41,9 @@ https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/be5382c7-6d02-
 新建和编辑笔记时可指定分类
 列表页可按分类筛选显示内容
 分类按钮实时显示当前筛选状态（如 "分类：工作"）
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/5a3b076e-c2f0-4a1e-934c-f83cb4276ad7.png
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/6c1c7437-7d5c-46f5-b4a7-58008714a99b.png
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/7d3caf46-35d1-48c6-8fd8-85311bdd010a.png
 
 4. 更换背景色功能
 实现方式
@@ -58,9 +58,9 @@ https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
 列表内容区域保持白色背景，保证文字可读性
 切换时有 Toast 提示当前选择的背景色
 支持恢复默认背景色（白色）
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/00a873ab-b0d3-4e67-8588-98bc6b571128.png
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/79af2aee-b674-4b4f-84bd-27e5414c679e.png
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/9e572081-f690-4c82-8086-82a6d8d0fcb1.png
 
 5. UI 界面实现
 布局结构

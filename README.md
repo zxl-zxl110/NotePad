@@ -12,7 +12,7 @@ NotePad 应用功能介绍
 每条笔记在列表中都会显示最后修改时间
 时间格式统一，清晰展示笔记的更新记录
 列表默认按修改时间倒序排列，最新笔记显示在最上方
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/3b748447-9f21-4b99-915b-7c003366edda.png
 
 2. 搜索查询功能
 实现方式
@@ -26,8 +26,8 @@ UI 组件：在布局文件中通过 EditText 输入搜索关键词，配合 "�
 支持通过关键词快速定位相关笔记
 点击 "清空" 按钮可一键清除搜索条件，恢复显示所有笔记
 搜索操作有 Toast 提示当前搜索关键词
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
-https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/b5d1f56a-5819-4af2-9759-070e1181e145.png
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master/image/be5382c7-6d02-4cec-87d9-9d74314378de.png
 
 3. 分类功能
 实现方式

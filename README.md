@@ -12,6 +12,7 @@ NotePad 应用功能介绍
 每条笔记在列表中都会显示最后修改时间
 时间格式统一，清晰展示笔记的更新记录
 列表默认按修改时间倒序排列，最新笔记显示在最上方
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
 
 2. 搜索查询功能
 实现方式
@@ -25,6 +26,8 @@ UI 组件：在布局文件中通过 EditText 输入搜索关键词，配合 "�
 支持通过关键词快速定位相关笔记
 点击 "清空" 按钮可一键清除搜索条件，恢复显示所有笔记
 搜索操作有 Toast 提示当前搜索关键词
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
 
 3. 分类功能
 实现方式
@@ -38,6 +41,9 @@ UI 组件：在布局文件中通过 EditText 输入搜索关键词，配合 "�
 新建和编辑笔记时可指定分类
 列表页可按分类筛选显示内容
 分类按钮实时显示当前筛选状态（如 "分类：工作"）
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
 
 4. 更换背景色功能
 实现方式
@@ -52,6 +58,9 @@ UI 组件：在布局文件中通过 EditText 输入搜索关键词，配合 "�
 列表内容区域保持白色背景，保证文字可读性
 切换时有 Toast 提示当前选择的背景色
 支持恢复默认背景色（白色）
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
+https://raw.githubusercontent.com/zxl-zxl110/NotePad/master
 
 5. UI 界面实现
 布局结构
